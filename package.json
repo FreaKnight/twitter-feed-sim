@@ -13,5 +13,7 @@
     "start:debug": "node app.js user.txt tweet.txt"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
 }
