@@ -1,0 +1,17 @@
+{
+  "name": "twitter-feed-sim",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/FreaKnight/twitter-feed-sim.git",
+  "author": "FreaKnight <seanjonker@hotmail.co.za>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.15.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "start:debug": "node app.js user.txt tweet.txt"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
