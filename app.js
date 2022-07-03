@@ -126,4 +126,4 @@ function getFileData(filename) {
 	return orchestratedContent;
 }
 
-start();
+export default start;

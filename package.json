@@ -10,7 +10,8 @@
   },
   "scripts": {
     "start": "node app.js",
-    "start:debug": "node app.js user.txt tweet.txt"
+    "start:debug": "node app.js user.txt tweet.txt",
+	"test": "jest"
   },
   "dependencies": {},
   "devDependencies": {
